@@ -1,2 +1,2 @@
-# Nurlan
-huseynov
+# huseynov
+nurlan
